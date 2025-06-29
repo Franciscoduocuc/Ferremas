@@ -22,7 +22,7 @@
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "32d423ab-70a7-455e-a630-a0d7d732cef4",
+				"id": "2938d6c4-6a15-4b77-80ec-ed3803ec04af",
 				"type": "text/javascript",
 				"packages": {},
 				"exec": [
@@ -33,7 +33,7 @@
 		{
 			"listen": "test",
 			"script": {
-				"id": "172e42d0-7acf-4560-bc5e-9a8e3289e602",
+				"id": "07b09cf1-6650-4021-a05c-7592c71fd35b",
 				"type": "text/javascript",
 				"packages": {},
 				"exec": [
@@ -46,6 +46,11 @@
 		{
 			"key": "producto_id",
 			"value": "ART001",
+			"type": "string"
+		},
+		{
+			"key": "sucursal_id_1",
+			"value": "SC005",
 			"type": "string"
 		}
 	]
