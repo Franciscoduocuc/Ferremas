@@ -22,7 +22,7 @@
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "7cb3794f-47df-4925-bff3-050e0c8459ec",
+				"id": "41c81100-7160-4f22-a1d5-e8d4c9c6ae43",
 				"type": "text/javascript",
 				"packages": {},
 				"exec": [
@@ -33,7 +33,7 @@
 		{
 			"listen": "test",
 			"script": {
-				"id": "08310d71-092b-47b1-9446-d88b9dc112bd",
+				"id": "39d854c5-4467-41bf-a6b1-bed00668005f",
 				"type": "text/javascript",
 				"packages": {},
 				"exec": [
