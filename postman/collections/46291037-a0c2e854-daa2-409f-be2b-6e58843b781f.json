@@ -1,0 +1,52 @@
+{
+	"info": {
+		"_postman_id": "46291037-a0c2e854-daa2-409f-be2b-6e58843b781f",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"id": "46291037-9cd7f223-5fa7-43e1-9ad3-b0f83f2613da",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "32d423ab-70a7-455e-a630-a0d7d732cef4",
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "172e42d0-7acf-4560-bc5e-9a8e3289e602",
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "producto_id",
+			"value": "ART001",
+			"type": "string"
+		}
+	]
+}
