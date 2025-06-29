@@ -22,7 +22,7 @@
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "fdaa6c15-eec2-4393-85d1-17416e7bb1dd",
+				"id": "69c80637-80df-4ab7-a64c-f46f73116e3d",
 				"type": "text/javascript",
 				"packages": {},
 				"exec": [
@@ -33,7 +33,7 @@
 		{
 			"listen": "test",
 			"script": {
-				"id": "a7adeb1a-a771-44d8-816d-2f2a89888559",
+				"id": "4c68b24d-cac6-4052-86f4-dbb001d0c78e",
 				"type": "text/javascript",
 				"packages": {},
 				"exec": [
@@ -59,7 +59,7 @@
 			"type": "string"
 		},
 		{
-			"key": "novedad ",
+			"key": "novedad",
 			"value": "ART001",
 			"type": "string"
 		}
