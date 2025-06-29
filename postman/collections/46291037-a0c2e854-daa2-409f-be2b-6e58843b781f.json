@@ -22,7 +22,7 @@
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "ddd039fb-54d7-431a-8705-6bb3a82db41b",
+				"id": "fdaa6c15-eec2-4393-85d1-17416e7bb1dd",
 				"type": "text/javascript",
 				"packages": {},
 				"exec": [
@@ -33,7 +33,7 @@
 		{
 			"listen": "test",
 			"script": {
-				"id": "6b518b64-eaba-42f4-8873-07bf552a2b5b",
+				"id": "a7adeb1a-a771-44d8-816d-2f2a89888559",
 				"type": "text/javascript",
 				"packages": {},
 				"exec": [
@@ -56,6 +56,11 @@
 		{
 			"key": "vendedor_id",
 			"value": "V005",
+			"type": "string"
+		},
+		{
+			"key": "novedad ",
+			"value": "ART001",
 			"type": "string"
 		}
 	]
