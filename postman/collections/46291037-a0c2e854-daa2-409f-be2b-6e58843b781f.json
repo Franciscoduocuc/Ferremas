@@ -22,7 +22,7 @@
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "d1cef707-0335-4199-afaa-99ea58e41a24",
+				"id": "ddd039fb-54d7-431a-8705-6bb3a82db41b",
 				"type": "text/javascript",
 				"packages": {},
 				"exec": [
@@ -33,7 +33,7 @@
 		{
 			"listen": "test",
 			"script": {
-				"id": "0c350221-16ef-4fd8-ba77-cb670237e1c0",
+				"id": "6b518b64-eaba-42f4-8873-07bf552a2b5b",
 				"type": "text/javascript",
 				"packages": {},
 				"exec": [
@@ -55,7 +55,7 @@
 		},
 		{
 			"key": "vendedor_id",
-			"value": "V003",
+			"value": "V005",
 			"type": "string"
 		}
 	]
