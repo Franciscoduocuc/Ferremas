@@ -22,7 +22,7 @@
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "2938d6c4-6a15-4b77-80ec-ed3803ec04af",
+				"id": "d1cef707-0335-4199-afaa-99ea58e41a24",
 				"type": "text/javascript",
 				"packages": {},
 				"exec": [
@@ -33,7 +33,7 @@
 		{
 			"listen": "test",
 			"script": {
-				"id": "07b09cf1-6650-4021-a05c-7592c71fd35b",
+				"id": "0c350221-16ef-4fd8-ba77-cb670237e1c0",
 				"type": "text/javascript",
 				"packages": {},
 				"exec": [
@@ -51,6 +51,11 @@
 		{
 			"key": "sucursal_id_1",
 			"value": "SC005",
+			"type": "string"
+		},
+		{
+			"key": "vendedor_id",
+			"value": "V003",
 			"type": "string"
 		}
 	]
